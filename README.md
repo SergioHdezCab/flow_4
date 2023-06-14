@@ -139,9 +139,9 @@ Para que se dibujen las lineas en la gráfica historica, necesitas enviar al men
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/hugoescalpelo/flow4-nodeRed-docker-compose/blob/main/imagenes/Screenshot%20from%202023-05-25%2001-12-03.png)
+![](https://github.com/NYamDN/flow_4/blob/main/imagenes/image.png?raw=true)
 
-![](https://github.com/hugoescalpelo/flow4-nodeRed-docker-compose/blob/main/imagenes/Screenshot%20from%202023-05-25%2001-12-32.png)
+![](https://github.com/NYamDN/flow_4/blob/main/imagenes/image(1).png?raw=true)
 
 
 
